@@ -1,0 +1,327 @@
+MERGE
+time_standart_array_2^7: 0.00037822723388671877
+comparing_number_standart_array_2^7: 130
+time_sorted_array_2^7: 0.0002999305725097656
+comparing_number_sorted_array_2^7: 130
+time_reversed_array_2^7: 0.0003003597259521484
+comparing_number_reversed_array_2^7: 130
+time_repeated_array_2^7: 0.00033203760782877606
+comparing_number_repeated_array_2^7: 130
+
+time_standart_array_2^8: 0.0008065700531005859
+comparing_number_standart_array_2^8: 258
+time_sorted_array_2^8: 0.0007421970367431641
+comparing_number_sorted_array_2^8: 258
+time_reversed_array_2^8: 0.0006952285766601562
+comparing_number_reversed_array_2^8: 258
+time_repeated_array_2^8: 0.0007473627726236979
+comparing_number_repeated_array_2^8: 258
+
+time_standart_array_2^9: 0.001662445068359375
+comparing_number_standart_array_2^9: 514
+time_sorted_array_2^9: 0.0014302253723144532
+comparing_number_sorted_array_2^9: 514
+time_reversed_array_2^9: 0.0014336109161376953
+comparing_number_reversed_array_2^9: 514
+time_repeated_array_2^9: 0.001567840576171875
+comparing_number_repeated_array_2^9: 514
+
+time_standart_array_2^10: 0.003755617141723633
+comparing_number_standart_array_2^10: 1026
+time_sorted_array_2^10: 0.0031916618347167967
+comparing_number_sorted_array_2^10: 1026
+time_reversed_array_2^10: 0.0031690120697021483
+comparing_number_reversed_array_2^10: 1026
+time_repeated_array_2^10: 0.003536065419514974
+comparing_number_repeated_array_2^10: 1026
+
+time_standart_array_2^11: 0.007767581939697265
+comparing_number_standart_array_2^11: 2050
+time_sorted_array_2^11: 0.0068072319030761715
+comparing_number_sorted_array_2^11: 2050
+time_reversed_array_2^11: 0.006673002243041992
+comparing_number_reversed_array_2^11: 2050
+time_repeated_array_2^11: 0.007170677185058594
+comparing_number_repeated_array_2^11: 2050
+
+time_standart_array_2^12: 0.01654186248779297
+comparing_number_standart_array_2^12: 4098
+time_sorted_array_2^12: 0.014134931564331054
+comparing_number_sorted_array_2^12: 4098
+time_reversed_array_2^12: 0.01402440071105957
+comparing_number_reversed_array_2^12: 4098
+time_repeated_array_2^12: 0.016233444213867188
+comparing_number_repeated_array_2^12: 4098
+
+time_standart_array_2^13: 0.0360013484954834
+comparing_number_standart_array_2^13: 8194
+time_sorted_array_2^13: 0.029800033569335936
+comparing_number_sorted_array_2^13: 8194
+time_reversed_array_2^13: 0.03025083541870117
+comparing_number_reversed_array_2^13: 8194
+time_repeated_array_2^13: 0.033471266428629555
+comparing_number_repeated_array_2^13: 8194
+
+time_standart_array_2^14: 0.07872257232666016
+comparing_number_standart_array_2^14: 16386
+time_sorted_array_2^14: 0.06449127197265625
+comparing_number_sorted_array_2^14: 16386
+time_reversed_array_2^14: 0.06488509178161621
+comparing_number_reversed_array_2^14: 16386
+time_repeated_array_2^14: 0.07193605105082194
+comparing_number_repeated_array_2^14: 16386
+
+time_standart_array_2^15: 0.16760644912719727
+comparing_number_standart_array_2^15: 32770
+time_sorted_array_2^15: 0.13872604370117186
+comparing_number_sorted_array_2^15: 32770
+time_reversed_array_2^15: 0.14385690689086914
+comparing_number_reversed_array_2^15: 32770
+time_repeated_array_2^15: 0.1561912695566813
+comparing_number_repeated_array_2^15: 32770
+
+INSERTION
+time_standart_array_2^7: 0.0005973339080810547
+comparing_number_standart_array_2^7: 4098
+time_sorted_array_2^7: 1.9121170043945313e-05
+comparing_number_sorted_array_2^7: 128
+time_reversed_array_2^7: 0.001191425323486328
+comparing_number_reversed_array_2^7: 8256
+time_repeated_array_2^7: 0.00042708714803059894
+comparing_number_repeated_array_2^7: 2925
+
+time_standart_array_2^8: 0.0023739814758300783
+comparing_number_standart_array_2^8: 16120
+time_sorted_array_2^8: 3.714561462402344e-05
+comparing_number_sorted_array_2^8: 256
+time_reversed_array_2^8: 0.004924392700195313
+comparing_number_reversed_array_2^8: 32896
+time_repeated_array_2^8: 0.0019120375315348308
+comparing_number_repeated_array_2^8: 11254
+
+time_standart_array_2^9: 0.010535287857055663
+comparing_number_standart_array_2^9: 65021
+time_sorted_array_2^9: 8.988380432128906e-05
+comparing_number_sorted_array_2^9: 512
+time_reversed_array_2^9: 0.020871496200561522
+comparing_number_reversed_array_2^9: 131328
+time_repeated_array_2^9: 0.0069696903228759766
+comparing_number_repeated_array_2^9: 44592
+
+time_standart_array_2^10: 0.04478573799133301
+comparing_number_standart_array_2^10: 265129
+time_sorted_array_2^10: 0.000186920166015625
+comparing_number_sorted_array_2^10: 1024
+time_reversed_array_2^10: 0.0847935676574707
+comparing_number_reversed_array_2^10: 524799
+time_repeated_array_2^10: 0.029166142145792644
+comparing_number_repeated_array_2^10: 175023
+
+time_standart_array_2^11: 0.17625641822814941
+comparing_number_standart_array_2^11: 1044724
+time_sorted_array_2^11: 0.00038976669311523436
+comparing_number_sorted_array_2^11: 2048
+time_reversed_array_2^11: 0.3482611656188965
+comparing_number_reversed_array_2^11: 2098173
+time_repeated_array_2^11: 0.11413121223449707
+comparing_number_repeated_array_2^11: 685426
+
+time_standart_array_2^12: 0.7191787719726562
+comparing_number_standart_array_2^12: 4186446
+time_sorted_array_2^12: 0.0007869720458984375
+comparing_number_sorted_array_2^12: 4096
+time_reversed_array_2^12: 1.4179837703704834
+comparing_number_reversed_array_2^12: 8390647
+time_repeated_array_2^12: 0.45976797739664715
+comparing_number_repeated_array_2^12: 2765063
+
+time_standart_array_2^13: 3.014217758178711
+comparing_number_standart_array_2^13: 16811955
+time_sorted_array_2^13: 0.0015740394592285156
+comparing_number_sorted_array_2^13: 8192
+time_reversed_array_2^13: 5.8499797821044925
+comparing_number_reversed_array_2^13: 33558490
+time_repeated_array_2^13: 1.85971466700236
+comparing_number_repeated_array_2^13: 11228664
+
+time_standart_array_2^14: 11.658118391036988
+comparing_number_standart_array_2^14: 67363797
+time_sorted_array_2^14: 0.003217172622680664
+comparing_number_sorted_array_2^14: 16384
+time_reversed_array_2^14: 23.046601724624633
+comparing_number_reversed_array_2^14: 134225775
+time_repeated_array_2^14: 7.439098358154297
+comparing_number_repeated_array_2^14: 44938303
+
+time_standart_array_2^15: 46.316548347473145
+comparing_number_standart_array_2^15: 269201121
+time_sorted_array_2^15: 0.0064090251922607425
+comparing_number_sorted_array_2^15: 32768
+time_reversed_array_2^15: 151.00982570648193
+comparing_number_reversed_array_2^15: 536886754
+time_repeated_array_2^15: 195.01745279630026
+comparing_number_repeated_array_2^15: 178663832
+
+SELECTION
+time_standart_array_2^7: 0.0007614612579345704
+comparing_number_standart_array_2^7: 8727
+time_sorted_array_2^7: 0.0007349014282226563
+comparing_number_sorted_array_2^7: 8257
+time_reversed_array_2^7: 0.0009481906890869141
+comparing_number_reversed_array_2^7: 12353
+time_repeated_array_2^7: 0.0008965333302815756
+comparing_number_repeated_array_2^7: 8360
+
+time_standart_array_2^8: 0.0029953956604003907
+comparing_number_standart_array_2^8: 33993
+time_sorted_array_2^8: 0.002918720245361328
+comparing_number_sorted_array_2^8: 32897
+time_reversed_array_2^8: 0.0038669586181640627
+comparing_number_reversed_array_2^8: 49281
+time_repeated_array_2^8: 0.0029987494150797525
+comparing_number_repeated_array_2^8: 33119
+
+time_standart_array_2^9: 0.012889480590820313
+comparing_number_standart_array_2^9: 133813
+time_sorted_array_2^9: 0.012466764450073243
+comparing_number_sorted_array_2^9: 131329
+time_reversed_array_2^9: 0.015511798858642577
+comparing_number_reversed_array_2^9: 196834
+time_repeated_array_2^9: 0.012793382008870443
+comparing_number_repeated_array_2^9: 131766
+
+time_standart_array_2^10: 0.052010631561279295
+comparing_number_standart_array_2^10: 530366
+time_sorted_array_2^10: 0.051509523391723634
+comparing_number_sorted_array_2^10: 524801
+time_reversed_array_2^10: 0.06240086555480957
+comparing_number_reversed_array_2^10: 786769
+time_repeated_array_2^10: 0.05100019772847494
+comparing_number_repeated_array_2^10: 525655
+
+time_standart_array_2^11: 0.20602936744689943
+comparing_number_standart_array_2^11: 2110826
+time_sorted_array_2^11: 0.20542149543762206
+comparing_number_sorted_array_2^11: 2098177
+time_reversed_array_2^11: 0.2503913402557373
+comparing_number_reversed_array_2^11: 3145964
+time_repeated_array_2^11: 0.2050145467122396
+comparing_number_repeated_array_2^11: 2099870
+
+time_standart_array_2^12: 0.8184376716613769
+comparing_number_standart_array_2^12: 8418794
+time_sorted_array_2^12: 0.8141695022583008
+comparing_number_sorted_array_2^12: 8390657
+time_reversed_array_2^12: 0.983834981918335
+comparing_number_reversed_array_2^12: 12576758
+time_repeated_array_2^12: 0.8066749572753906
+comparing_number_repeated_array_2^12: 8394090
+
+time_standart_array_2^13: 3.235657215118408
+comparing_number_standart_array_2^13: 33621116
+time_sorted_array_2^13: 3.2487866401672365
+comparing_number_sorted_array_2^13: 33558529
+time_reversed_array_2^13: 3.9508270263671874
+comparing_number_reversed_array_2^13: 50277237
+time_repeated_array_2^13: 3.2136286894480386
+comparing_number_repeated_array_2^13: 33565365
+
+time_standart_array_2^14: 13.260357427597047
+comparing_number_standart_array_2^14: 134359915
+time_sorted_array_2^14: 13.162749576568604
+comparing_number_sorted_array_2^14: 134225921
+time_reversed_array_2^14: 15.953711700439452
+comparing_number_reversed_array_2^14: 200768827
+time_repeated_array_2^14: 12.830928246180216
+comparing_number_repeated_array_2^14: 134239510
+
+time_standart_array_2^15: 52.54593467712402
+comparing_number_standart_array_2^15: 537180503
+time_sorted_array_2^15: 64.55724706649781
+comparing_number_sorted_array_2^15: 536887297
+time_reversed_array_2^15: 65.03822121620178
+comparing_number_reversed_array_2^15: 801015888
+time_repeated_array_2^15: 51.74931255976359
+comparing_number_repeated_array_2^15: 536914640
+
+SHELL
+time_standart_array_2^7: 0.00024309158325195313
+comparing_number_standart_array_2^7: 1491
+time_sorted_array_2^7: 0.00010967254638671875
+comparing_number_sorted_array_2^7: 777
+time_reversed_array_2^7: 0.0001864910125732422
+comparing_number_reversed_array_2^7: 1225
+time_repeated_array_2^7: 0.00013868014017740885
+comparing_number_repeated_array_2^7: 936
+
+time_standart_array_2^8: 0.0006086826324462891
+comparing_number_standart_array_2^8: 3727
+time_sorted_array_2^8: 0.00026035308837890625
+comparing_number_sorted_array_2^8: 1802
+time_reversed_array_2^8: 0.00043597221374511717
+comparing_number_reversed_array_2^8: 2826
+time_repeated_array_2^8: 0.00033362706502278644
+comparing_number_repeated_array_2^8: 2230
+
+time_standart_array_2^9: 0.0017588615417480468
+comparing_number_standart_array_2^9: 9729
+time_sorted_array_2^9: 0.0006255149841308594
+comparing_number_sorted_array_2^9: 4107
+time_reversed_array_2^9: 0.0010957717895507812
+comparing_number_reversed_array_2^9: 6410
+time_repeated_array_2^9: 0.0008135636647542318
+comparing_number_repeated_array_2^9: 5061
+
+time_standart_array_2^10: 0.005177021026611328
+comparing_number_standart_array_2^10: 25291
+time_sorted_array_2^10: 0.0015277385711669922
+comparing_number_sorted_array_2^10: 9228
+time_reversed_array_2^10: 0.0026439666748046876
+comparing_number_reversed_array_2^10: 14347
+time_repeated_array_2^10: 0.0019388198852539062
+comparing_number_repeated_array_2^10: 11356
+
+time_standart_array_2^11: 0.013798332214355469
+comparing_number_standart_array_2^11: 70555
+time_sorted_array_2^11: 0.003277111053466797
+comparing_number_sorted_array_2^11: 20493
+time_reversed_array_2^11: 0.005646133422851562
+comparing_number_reversed_array_2^11: 31756
+time_repeated_array_2^11: 0.004378398259480794
+comparing_number_repeated_array_2^11: 25480
+
+time_standart_array_2^12: 0.03639998435974121
+comparing_number_standart_array_2^12: 183648
+time_sorted_array_2^12: 0.007347393035888672
+comparing_number_sorted_array_2^12: 45070
+time_reversed_array_2^12: 0.013081979751586915
+comparing_number_reversed_array_2^12: 69643
+time_repeated_array_2^12: 0.009781678517659506
+comparing_number_repeated_array_2^12: 56919
+
+time_standart_array_2^13: 0.09730319976806641
+comparing_number_standart_array_2^13: 476682
+time_sorted_array_2^13: 0.01633443832397461
+comparing_number_sorted_array_2^13: 98319
+time_reversed_array_2^13: 0.02766275405883789
+comparing_number_reversed_array_2^13: 151551
+time_repeated_array_2^13: 0.02103567123413086
+comparing_number_repeated_array_2^13: 121738
+
+time_standart_array_2^14: 0.27861847877502444
+comparing_number_standart_array_2^14: 1368598
+time_sorted_array_2^14: 0.03628072738647461
+comparing_number_sorted_array_2^14: 213008
+time_reversed_array_2^14: 0.060958480834960936
+comparing_number_reversed_array_2^14: 327624
+time_repeated_array_2^14: 0.04450432459513346
+comparing_number_repeated_array_2^14: 257331
+
+time_standart_array_2^15: 0.7103641033172607
+comparing_number_standart_array_2^15: 3478448
+time_sorted_array_2^15: 0.0787630558013916
+comparing_number_sorted_array_2^15: 458769
+time_reversed_array_2^15: 0.13188467025756836
+comparing_number_reversed_array_2^15: 704265
+time_repeated_array_2^15: 0.09624965985616048
+comparing_number_repeated_array_2^15: 557033
